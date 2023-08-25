@@ -1,0 +1,15 @@
+{
+    "name": "jonathan/ap",
+    "autoload": {
+        "psr-4": {
+            "Jonathan\\Ap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Barreto",
+            "email": "jonathan777barreto@gmail.com"
+        }
+    ],
+    "require": {}
+}
